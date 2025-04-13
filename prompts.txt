@@ -1,0 +1,4 @@
+Prompt: "Please provide a basic implementation for parsing byte size units (e.g., KB, MB) and time duration units (e.g., ms, s) in the CDAP Wrangler library."
+Prompt: "Design a simple aggregation directive for Wrangler that calculates totals for byte size and time duration columns, including sample code."
+Prompt: "Suggest unit tests for validating the parsing of byte size and time duration values in Wrangler, including edge cases."
+Prompt: "Explain how to integrate new lexer tokens for byte size and time duration into the Wrangler ANTLR grammar file."
